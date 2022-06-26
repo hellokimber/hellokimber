@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello there ✨
+
+👩‍💻 I'm a visual designer who is diving into the code world! 
+
+🌱 I'm currently learning HTML, CSS and Vanilla JavaScript through SuperHi courses and my own side projects.
+
+🎨 I love making stuff and telling stories—even better when I get to do both together! 
+
 
 <!--
 **hellokimber/hellokimber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
