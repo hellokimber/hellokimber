@@ -4,7 +4,7 @@
 
 🌱 I'm currently learning HTML, CSS and Vanilla JavaScript through SuperHi courses and my own side projects.
 
-🎨 I love making stuff and telling stories—even better when I get to do both together! 
+🎨 I love making stuff and crafting stories—even better when I get to do both together! 
 
 
 <!--
