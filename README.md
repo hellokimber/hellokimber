@@ -1,8 +1,8 @@
 ### Hello there ✨
 
-👩‍💻 I'm a visual designer who is diving into the code world! 
+I'm a visual designer who enjoys building with code! This is the place to view my course work and personal code projects.
 
-🌱 I'm currently learning HTML, CSS and Vanilla JavaScript through SuperHi courses and my own side projects.
+🌱 I'm currently learning HTML, CSS and Vanilla JavaScript.
 
 🎨 I love making stuff and crafting stories—even better when I get to do both together! 
 
